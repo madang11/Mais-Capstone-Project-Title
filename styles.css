@@ -1,0 +1,92 @@
+.feet{
+    position: absolute;
+	top: 050px;
+	left:0700px;
+	z-index: 1;
+	height:150px;
+	display: none;
+}
+.feetBox{
+    background-color:red;
+    width:60px;
+    height:40px;
+    position: absolute;
+	top:660px;
+	left:298px;
+	opacity: 0;
+}
+.feetBox2{
+    background-color:red;
+    width:60px;
+    height:40px;
+    position: absolute;
+	top:660px;
+	left:405px;
+	opacity: 0;
+}
+.brain{
+    position: absolute;
+	top: 000px;
+	left:0675px;
+	z-index: 1;
+	display: none;
+}
+.brainBox{
+    background-color:red;
+    width:170px;
+    height:80px;
+    position: absolute;
+	top:90px;
+	left:298px;
+	opacity: 0;
+}
+.heart{
+    position: absolute;
+	top: 060px;
+	left:0730px;
+	z-index: 1;
+	height:200px;
+	display: none;
+}
+.heartBox{
+    background-color:red;
+    width:50px;
+    height:50px;
+    position: absolute;
+	top:325px;
+	left:375px;
+	opacity: 0;
+}
+.hands{
+    position: absolute;
+    top: 60px;
+    left:0720px;
+	z-index: 1;
+	height:150px;
+	display: none;
+}
+.handBox{
+    background-color:red;
+    width:60px;
+    height:50px;
+    position: absolute;
+	top:425px;
+	left:535px;
+	opacity: 0;
+}
+.handBox2{
+    background-color:red;
+    width:60px;
+    height:50px;
+    position: absolute;
+	top:425px;
+	left:170px;
+	opacity: 0;
+}
+.textBoxes{
+    width:60px;
+    height:50px;
+    position: absolute;
+	top:55px;
+	left:950px;
+}
